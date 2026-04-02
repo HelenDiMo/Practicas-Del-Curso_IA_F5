@@ -1,2 +1,3 @@
 # Practicas-Del-Curso
-Colección de todas las prácticas que he ido haciendo durante el curso. 
+
+[Practicas Del Curso IA 80h.](https://github.com/HelenDiMo/Practicas-Del-Curso_IA_F5) → Proyectos y actividades del curso.
